@@ -1,0 +1,2976 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>paloma</Author>
+  <LastAuthor>paloma</LastAuthor>
+  <Created>2021-01-18T20:40:03Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7545</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Planilha1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="417" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Kobe Bryant</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Lakers</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Joe Johnson</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">24.894863000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">LeBron James</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Cleveland Cavaliers</Data></Cell>
+    <Cell><Data ss:Type="Number">22.970500000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Carmelo Anthony</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">22.875</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Dwight Howard</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">22.359363999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Bosh</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">22.192730000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Paul</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">21.468695</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Kevin Durant</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">20.158622000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Derrick Rose</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">20.093063999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Dwyane Wade</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">LaMarcus Aldridge</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">19.689</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">Kevin Love</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Cleveland Cavaliers</Data></Cell>
+    <Cell><Data ss:Type="Number">19.689</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">Marc Gasol</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">19.687999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">Blake Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">18.907726</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String">Paul Millsap</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">18.671658999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">Paul George</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">17.120106</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">Russell Westbrook</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">16.744218</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">Kyrie Irving</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Cleveland Cavaliers</Data></Cell>
+    <Cell><Data ss:Type="Number">16.407501</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">Kawhi Leonard</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">16.407499999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">Enes Kanter</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">16.407499999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">Jimmy Butler</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">16.407499999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">Tobias Harris</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">John Wall</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">15.85195</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String">DeMarcus Cousins</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento Kings</Data></Cell>
+    <Cell><Data ss:Type="Number">15.85195</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">James Harden</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">15.756437999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">Roy Hibbert</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Lakers</Data></Cell>
+    <Cell><Data ss:Type="Number">15.592217</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">Eric Gordon</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">15.514030999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="String">Klay Thompson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">15.500999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">David Lee</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Dallas Mavericks</Data></Cell>
+    <Cell><Data ss:Type="Number">15.493679999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">Gordon Hayward</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">15.40957</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">Chandler Parsons</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Dallas Mavericks</Data></Cell>
+    <Cell><Data ss:Type="Number">15.361499999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">Goran Dragic</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">14.782999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">Khris Middleton</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">14.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="String">Draymond Green</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">14.260870000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">Tristan Thompson</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Cleveland Cavaliers</Data></Cell>
+    <Cell><Data ss:Type="Number">14.260870000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="String">Danilo Gallinari</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="String">Reggie Jackson</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Detroit Pistons</Data></Cell>
+    <Cell><Data ss:Type="Number">13.913043999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="String">Andrew Bogut</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">13.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="String">DeMarre Carroll</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">13.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String">Al Jefferson</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">13.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="String">Eric Bledsoe</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">13.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="String">Tony Parker</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">13.4375</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="String">Joakim Noah</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">13.4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="String">Nicolas Batum</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">13.125306</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">Nene Hilario</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="String">Tyson Chandler</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String">Ricky Rubio</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">12.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String">Robin Lopez</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">12.65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String">Ty Lawson</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">12.404495000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String">Rudy Gay</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento Kings</Data></Cell>
+    <Cell><Data ss:Type="Number">12.403100999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String">Serge Ibaka</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">12.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String">Nikola Pekovic</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">12.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String">Kemba Walker</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String">Kyle Lowry</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String">Al Horford</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String">Andre Iguodala</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">11.710456000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String">Stephen Curry</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">11.370786000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String">Nikola Vucevic</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">11.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String">Thaddeus Young</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">11.235955000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String">Kenneth Faried</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">11.235955000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String">Marcin Gortat</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">11.217390999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="String">Tyreke Evans</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">10.734586</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="String">Jrue Holiday</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">10.595507</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell><Data ss:Type="String">Brendan Haywood</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Cleveland Cavaliers</Data></Cell>
+    <Cell><Data ss:Type="Number">10.522500000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="String">Wilson Chandler</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">10.449438000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="String">Monta Ellis</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">10.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="String">Luol Deng</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">10.151612</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="String">Gerald Wallace</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">10.105855</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="String">DeMar DeRozan</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">10.050000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="String">Danny Green</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="String">Tiago Splitter</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">9.7562499999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell><Data ss:Type="String">Zach Randolph</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">9.6385550000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="String">Mike Conley</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">9.5884260000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="String">Rajon Rondo</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento Kings</Data></Cell>
+    <Cell><Data ss:Type="Number">9.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="String">Alec Burks</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">9.4634839999999993</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="String">Jeff Green</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">9.4499999999999993</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">77</Data></Cell>
+    <Cell><Data ss:Type="String">Omer Asik</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">9.2134830000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="String">Lance Stephenson</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">79</Data></Cell>
+    <Cell><Data ss:Type="String">Iman Shumpert</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Cleveland Cavaliers</Data></Cell>
+    <Cell><Data ss:Type="Number">8.9887650000000008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="String">Kevin Garnett</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">8.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">81</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">8.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">82</Data></Cell>
+    <Cell><Data ss:Type="String">Brandon Jennings</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">8.3444970000000005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">83</Data></Cell>
+    <Cell><Data ss:Type="String">Dirk Nowitzki</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Dallas Mavericks</Data></Cell>
+    <Cell><Data ss:Type="Number">8.3333340000000007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="String">Corey Brewer</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">8.2293749999999992</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell><Data ss:Type="String">Trevor Ariza</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">8.1930300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">86</Data></Cell>
+    <Cell><Data ss:Type="String">Channing Frye</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">8.1930289999999992</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">87</Data></Cell>
+    <Cell><Data ss:Type="String">Al-Farouq Aminu</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">8.0428949999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">88</Data></Cell>
+    <Cell><Data ss:Type="String">Markieff Morris</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="String">O.J. Mayo</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="String">Arron Afflalo</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">91</Data></Cell>
+    <Cell><Data ss:Type="String">Jeff Teague</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">92</Data></Cell>
+    <Cell><Data ss:Type="String">Ersan Ilyasova</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">7.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">93</Data></Cell>
+    <Cell><Data ss:Type="String">Avery Bradley</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">7.7303369999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">94</Data></Cell>
+    <Cell><Data ss:Type="String">Kosta Koufos</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento Kings</Data></Cell>
+    <Cell><Data ss:Type="Number">7.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="String">Boris Diaw</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">96</Data></Cell>
+    <Cell><Data ss:Type="String">Pau Gasol</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">7.44876</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">97</Data></Cell>
+    <Cell><Data ss:Type="String">Jose Calderon</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">7.4028119999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">98</Data></Cell>
+    <Cell><Data ss:Type="String">Kevin Martin</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">7.085</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+    <Cell><Data ss:Type="String">J.J. Redick</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">7.085</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Anthony Davis</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0707300000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">101</Data></Cell>
+    <Cell><Data ss:Type="String">Jason Thompson</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0084749999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">102</Data></Cell>
+    <Cell><Data ss:Type="String">Marvin Williams</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">103</Data></Cell>
+    <Cell><Data ss:Type="String">Cory Joseph</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">104</Data></Cell>
+    <Cell><Data ss:Type="String">Louis Williams</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Lakers</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">105</Data></Cell>
+    <Cell><Data ss:Type="String">Rodney Stuckey</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">106</Data></Cell>
+    <Cell><Data ss:Type="String">Ed Davis</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">6.9808019999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">107</Data></Cell>
+    <Cell><Data ss:Type="String">Isaiah Thomas</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">6.9128689999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">108</Data></Cell>
+    <Cell><Data ss:Type="String">Jae Crowder</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">6.7961169999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">109</Data></Cell>
+    <Cell><Data ss:Type="String">Greivis Vasquez</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">6.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">110</Data></Cell>
+    <Cell><Data ss:Type="String">Carl Landry</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">111</Data></Cell>
+    <Cell><Data ss:Type="String">Aron Baynes</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Detroit Pistons</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">112</Data></Cell>
+    <Cell><Data ss:Type="String">Patrick Beverley</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">6.4864860000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">113</Data></Cell>
+    <Cell><Data ss:Type="String">Michael Kidd-Gilchrist</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">6.331404</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">114</Data></Cell>
+    <Cell><Data ss:Type="String">Jarrett Jack</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">6.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">115</Data></Cell>
+    <Cell><Data ss:Type="String">Jodie Meeks</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Detroit Pistons</Data></Cell>
+    <Cell><Data ss:Type="Number">6.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">116</Data></Cell>
+    <Cell><Data ss:Type="String">Patrick Patterson</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">6.268675</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">117</Data></Cell>
+    <Cell><Data ss:Type="String">Spencer Hawes</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">6.1100339999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">118</Data></Cell>
+    <Cell><Data ss:Type="String">Marco Belinelli</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento Kings</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0606059999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">119</Data></Cell>
+    <Cell><Data ss:Type="String">Gerald Henderson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">120</Data></Cell>
+    <Cell><Data ss:Type="String">Andrew Wiggins</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">5.75868</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">121</Data></Cell>
+    <Cell><Data ss:Type="String">Kyle Korver</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">5.7464789999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">122</Data></Cell>
+    <Cell><Data ss:Type="String">Karl-Anthony Towns</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">5.7035999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell><Data ss:Type="String">Bradley Beal</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">5.694674</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">124</Data></Cell>
+    <Cell><Data ss:Type="String">Courtney Lee</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">5.6749999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">125</Data></Cell>
+    <Cell><Data ss:Type="String">Jamal Crawford</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">5.6749999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">126</Data></Cell>
+    <Cell><Data ss:Type="String">Martell Webster</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">5.6135000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">127</Data></Cell>
+    <Cell><Data ss:Type="String">JJ Hickson</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">5.6135000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">128</Data></Cell>
+    <Cell><Data ss:Type="String">Shaun Livingston</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5437250000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">129</Data></Cell>
+    <Cell><Data ss:Type="String">Josh McRoberts</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5437250000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+    <Cell><Data ss:Type="String">Nikola Mirotic</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5437250000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">131</Data></Cell>
+    <Cell><Data ss:Type="String">Mirza Teletovic</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">132</Data></Cell>
+    <Cell><Data ss:Type="String">P.J. Tucker</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">133</Data></Cell>
+    <Cell><Data ss:Type="String">Brandan Wright</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">5.4640000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">134</Data></Cell>
+    <Cell><Data ss:Type="String">Deron Williams</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Dallas Mavericks</Data></Cell>
+    <Cell><Data ss:Type="Number">5.3789740000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">135</Data></Cell>
+    <Cell><Data ss:Type="String">Tim Duncan</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">5.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">136</Data></Cell>
+    <Cell><Data ss:Type="String">Nick Young</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Lakers</Data></Cell>
+    <Cell><Data ss:Type="Number">5.2191689999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">137</Data></Cell>
+    <Cell><Data ss:Type="String">Zaza Pachulia</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Dallas Mavericks</Data></Cell>
+    <Cell><Data ss:Type="Number">5.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">138</Data></Cell>
+    <Cell><Data ss:Type="String">Victor Oladipo</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">5.19252</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">139</Data></Cell>
+    <Cell><Data ss:Type="String">Tony Allen</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">5.1585390000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">140</Data></Cell>
+    <Cell><Data ss:Type="String">Jabari Parker</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">5.1524400000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">141</Data></Cell>
+    <Cell><Data ss:Type="String">Dion Waiters</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">5.1384299999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">142</Data></Cell>
+    <Cell><Data ss:Type="String">D'Angelo Russell</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Lakers</Data></Cell>
+    <Cell><Data ss:Type="Number">5.1031199999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">143</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Kaman</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">5.016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">144</Data></Cell>
+    <Cell><Data ss:Type="String">Darren Collison</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento Kings</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0135589999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">145</Data></Cell>
+    <Cell><Data ss:Type="String">Chase Budinger</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">146</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Andersen</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">147</Data></Cell>
+    <Cell><Data ss:Type="String">Jonas Jerebko</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">148</Data></Cell>
+    <Cell><Data ss:Type="String">Timofey Mozgov</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Cleveland Cavaliers</Data></Cell>
+    <Cell><Data ss:Type="Number">4.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell><Data ss:Type="String">Trevor Booker</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">4.7750000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell><Data ss:Type="String">Otto Porter Jr.</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">4.66296</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">151</Data></Cell>
+    <Cell><Data ss:Type="String">Jonas Valanciunas</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">4.660482</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">152</Data></Cell>
+    <Cell><Data ss:Type="String">Joel Embiid</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">4.6269600000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">153</Data></Cell>
+    <Cell><Data ss:Type="String">Jahlil Okafor</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5826799999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">154</Data></Cell>
+    <Cell><Data ss:Type="String">Kyle Singler</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">155</Data></Cell>
+    <Cell><Data ss:Type="String">Mike Dunleavy</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">156</Data></Cell>
+    <Cell><Data ss:Type="String">Kris Humphries</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">4.4400000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">157</Data></Cell>
+    <Cell><Data ss:Type="String">C.J. Miles</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">4.3942249999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">158</Data></Cell>
+    <Cell><Data ss:Type="String">Alexis Ajinca</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">4.3896069999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">159</Data></Cell>
+    <Cell><Data ss:Type="String">Jared Dudley</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">4.375</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">160</Data></Cell>
+    <Cell><Data ss:Type="String">Jameer Nelson</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">4.3449999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">161</Data></Cell>
+    <Cell><Data ss:Type="String">Mario Chalmers</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">4.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">162</Data></Cell>
+    <Cell><Data ss:Type="String">Jason Smith</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">4.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">163</Data></Cell>
+    <Cell><Data ss:Type="String">J.J. Barea</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Dallas Mavericks</Data></Cell>
+    <Cell><Data ss:Type="Number">4.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">164</Data></Cell>
+    <Cell><Data ss:Type="String">Damian Lillard</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">4.2362869999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">165</Data></Cell>
+    <Cell><Data ss:Type="String">Cody Zeller</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">4.2042000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">166</Data></Cell>
+    <Cell><Data ss:Type="String">Aaron Gordon</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">4.1716800000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">167</Data></Cell>
+    <Cell><Data ss:Type="String">Kristaps Porzingis</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">4.1317199999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell><Data ss:Type="String">Vince Carter</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0880190000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">169</Data></Cell>
+    <Cell><Data ss:Type="String">Devin Harris</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Dallas Mavericks</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0534460000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">170</Data></Cell>
+    <Cell><Data ss:Type="String">Lavoy Allen</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">4.05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">171</Data></Cell>
+    <Cell><Data ss:Type="String">Alan Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">172</Data></Cell>
+    <Cell><Data ss:Type="String">Jordan Hill</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">173</Data></Cell>
+    <Cell><Data ss:Type="String">Ian Mahinmi</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">174</Data></Cell>
+    <Cell><Data ss:Type="String">Derrick Williams</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">175</Data></Cell>
+    <Cell><Data ss:Type="String">Thabo Sefolosha</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">176</Data></Cell>
+    <Cell><Data ss:Type="String">Raymond Felton</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Dallas Mavericks</Data></Cell>
+    <Cell><Data ss:Type="Number">3.950313</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">177</Data></Cell>
+    <Cell><Data ss:Type="String">Nemanja Bjelica</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">3.9500009999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">178</Data></Cell>
+    <Cell><Data ss:Type="String">Harrison Barnes</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">3.8733979999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">179</Data></Cell>
+    <Cell><Data ss:Type="String">Marreese Speights</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">3.8149999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">180</Data></Cell>
+    <Cell><Data ss:Type="String">Alex Len</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">3.8071199999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">181</Data></Cell>
+    <Cell><Data ss:Type="String">Dante Exum</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">3.77772</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">182</Data></Cell>
+    <Cell><Data ss:Type="String">Nick Collison</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">3.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">183</Data></Cell>
+    <Cell><Data ss:Type="String">Kyle O'Quinn</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">3.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">184</Data></Cell>
+    <Cell><Data ss:Type="String">Mario Hezonja</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">3.7414800000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">185</Data></Cell>
+    <Cell><Data ss:Type="String">Patty Mills</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">3.5789469999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">186</Data></Cell>
+    <Cell><Data ss:Type="String">Terrence Ross</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">3.5539170000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">187</Data></Cell>
+    <Cell><Data ss:Type="String">Matt Barnes</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">3.5425</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">188</Data></Cell>
+    <Cell><Data ss:Type="String">Will Barton</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">3.5333329999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell><Data ss:Type="String">Nerlens Noel</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">3.4578000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">190</Data></Cell>
+    <Cell><Data ss:Type="String">Marcus Smart</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">3.4310399999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">191</Data></Cell>
+    <Cell><Data ss:Type="String">Bojan Bogdanovic</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">3.4255100000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">192</Data></Cell>
+    <Cell><Data ss:Type="String">Evan Turner</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">3.4255100000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">193</Data></Cell>
+    <Cell><Data ss:Type="String">Willie Cauley-Stein</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento Kings</Data></Cell>
+    <Cell><Data ss:Type="Number">3.3982800000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">194</Data></Cell>
+    <Cell><Data ss:Type="String">Quincy Pondexter</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">3.3820229999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">195</Data></Cell>
+    <Cell><Data ss:Type="String">Paul Pierce</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">3.3759999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">196</Data></Cell>
+    <Cell><Data ss:Type="String">Anthony Morrow</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">3.3439999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">197</Data></Cell>
+    <Cell><Data ss:Type="String">Mike Scott</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">3.3333330000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">198</Data></Cell>
+    <Cell><Data ss:Type="String">Drew Gooden</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">3.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">199</Data></Cell>
+    <Cell><Data ss:Type="String">Andre Drummond</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Detroit Pistons</Data></Cell>
+    <Cell><Data ss:Type="Number">3.2720910000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="String">K.J. McDaniels</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">3.189794</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">201</Data></Cell>
+    <Cell><Data ss:Type="String">Ben McLemore</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento Kings</Data></Cell>
+    <Cell><Data ss:Type="Number">3.1566000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">202</Data></Cell>
+    <Cell><Data ss:Type="String">Randy Foye</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">3.1349999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">203</Data></Cell>
+    <Cell><Data ss:Type="String">Julius Randle</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Lakers</Data></Cell>
+    <Cell><Data ss:Type="Number">3.1322399999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">204</Data></Cell>
+    <Cell><Data ss:Type="String">Austin Rivers</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">3.1107960000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">205</Data></Cell>
+    <Cell><Data ss:Type="String">Emmanuel Mudiay</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">3.1022400000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">206</Data></Cell>
+    <Cell><Data ss:Type="String">Meyers Leonard</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0758800000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">207</Data></Cell>
+    <Cell><Data ss:Type="String">Norris Cole</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0369269999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">208</Data></Cell>
+    <Cell><Data ss:Type="String">Jeremy Lamb</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0343559999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">209</Data></Cell>
+    <Cell><Data ss:Type="String">Jerryd Bayless</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">210</Data></Cell>
+    <Cell><Data ss:Type="String">Brandon Bass</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Lakers</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">211</Data></Cell>
+    <Cell><Data ss:Type="String">D.J. Augustin</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">212</Data></Cell>
+    <Cell><Data ss:Type="String">John Henson</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">2.9432209999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">213</Data></Cell>
+    <Cell><Data ss:Type="String">Luis Scola</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">2.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">214</Data></Cell>
+    <Cell><Data ss:Type="String">Tibor Pleiss</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">2.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">215</Data></Cell>
+    <Cell><Data ss:Type="String">Maurice Harkless</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8940589999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">216</Data></Cell>
+    <Cell><Data ss:Type="String">Kentavious Caldwell-Pope</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Detroit Pistons</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8917600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">217</Data></Cell>
+    <Cell><Data ss:Type="String">Nik Stauskas</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">2.86944</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">218</Data></Cell>
+    <Cell><Data ss:Type="String">Udonis Haslem</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">2.85494</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">219</Data></Cell>
+    <Cell><Data ss:Type="String">Brian Roberts</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">2.85494</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">220</Data></Cell>
+    <Cell><Data ss:Type="String">Kirk Hinrich</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">2.85494</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">221</Data></Cell>
+    <Cell><Data ss:Type="String">Dante Cunningham</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">2.85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">222</Data></Cell>
+    <Cell><Data ss:Type="String">Stanley Johnson</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Detroit Pistons</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8419599999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">223</Data></Cell>
+    <Cell><Data ss:Type="String">Furkan Aldemir</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8367680000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">224</Data></Cell>
+    <Cell><Data ss:Type="String">Omri Casspi</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento Kings</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8361860000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">225</Data></Cell>
+    <Cell><Data ss:Type="String">Bismack Biyombo</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8140000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">226</Data></Cell>
+    <Cell><Data ss:Type="String">Manu Ginobili</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8140000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">227</Data></Cell>
+    <Cell><Data ss:Type="String">Darrell Arthur</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8140000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">228</Data></Cell>
+    <Cell><Data ss:Type="String">Luke Ridnour</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">2.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">229</Data></Cell>
+    <Cell><Data ss:Type="String">Trey Burke</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">2.6582400000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">230</Data></Cell>
+    <Cell><Data ss:Type="String">Noah Vonleh</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">2.6377199999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">231</Data></Cell>
+    <Cell><Data ss:Type="String">Tyler Zeller</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">2.6169750000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">232</Data></Cell>
+    <Cell><Data ss:Type="String">Frank Kaminsky III</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">2.61252</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">233</Data></Cell>
+    <Cell><Data ss:Type="String">Jared Sullinger</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5692599999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">234</Data></Cell>
+    <Cell><Data ss:Type="String">C.J. McCollum</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5251600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">235</Data></Cell>
+    <Cell><Data ss:Type="String">Elfrid Payton</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5057200000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">236</Data></Cell>
+    <Cell><Data ss:Type="String">James Johnson</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">237</Data></Cell>
+    <Cell><Data ss:Type="String">Leandro Barbosa</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">238</Data></Cell>
+    <Cell><Data ss:Type="String">Joel Anthony</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Detroit Pistons</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">239</Data></Cell>
+    <Cell><Data ss:Type="String">Terrence Jones</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">2.4895299999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">240</Data></Cell>
+    <Cell><Data ss:Type="String">Justise Winslow</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">2.4817200000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">241</Data></Cell>
+    <Cell><Data ss:Type="String">Shelvin Mack</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">2.4333330000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">242</Data></Cell>
+    <Cell><Data ss:Type="String">Michael Carter-Williams</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">2.3990399999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">243</Data></Cell>
+    <Cell><Data ss:Type="String">Andrew Nicholson</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">2.3805930000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">244</Data></Cell>
+    <Cell><Data ss:Type="String">Doug McDermott</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">2.3804400000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">245</Data></Cell>
+    <Cell><Data ss:Type="String">Myles Turner</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">2.3577599999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">246</Data></Cell>
+    <Cell><Data ss:Type="String">Evan Fournier</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">2.288205</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">247</Data></Cell>
+    <Cell><Data ss:Type="String">Donatas Motiejunas</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">2.288205</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">248</Data></Cell>
+    <Cell><Data ss:Type="String">Steven Adams</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">2.2790400000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">249</Data></Cell>
+    <Cell><Data ss:Type="String">Aaron Brooks</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">2.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Trey Lyles</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">2.2397999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">251</Data></Cell>
+    <Cell><Data ss:Type="String">Tony Wroten</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1793529999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">252</Data></Cell>
+    <Cell><Data ss:Type="String">Ramon Sessions</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1704650000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">253</Data></Cell>
+    <Cell><Data ss:Type="String">Beno Udrih</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1704650000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">254</Data></Cell>
+    <Cell><Data ss:Type="String">Danny Granger</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Detroit Pistons</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1704650000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">255</Data></Cell>
+    <Cell><Data ss:Type="String">Kelly Olynyk</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1651600000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">256</Data></Cell>
+    <Cell><Data ss:Type="String">Zach LaVine</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1483599999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">257</Data></Cell>
+    <Cell><Data ss:Type="String">Kendall Marshall</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1447720000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">258</Data></Cell>
+    <Cell><Data ss:Type="String">Jeremy Lin</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1389999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">259</Data></Cell>
+    <Cell><Data ss:Type="String">Gary Neal</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1389999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">260</Data></Cell>
+    <Cell><Data ss:Type="String">Devin Booker</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">2.12784</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">261</Data></Cell>
+    <Cell><Data ss:Type="String">Miles Plumlee</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1092939999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">262</Data></Cell>
+    <Cell><Data ss:Type="String">Mo Williams</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Cleveland Cavaliers</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">263</Data></Cell>
+    <Cell><Data ss:Type="String">Shabazz Muhammad</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0569199999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">264</Data></Cell>
+    <Cell><Data ss:Type="String">Joe Ingles</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0499999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">265</Data></Cell>
+    <Cell><Data ss:Type="String">T.J. Warren</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">2.04108</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">266</Data></Cell>
+    <Cell><Data ss:Type="String">Perry Jones</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0382060000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">267</Data></Cell>
+    <Cell><Data ss:Type="String">Cameron Payne</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0215200000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">268</Data></Cell>
+    <Cell><Data ss:Type="String">Festus Ezeli</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0087480000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">269</Data></Cell>
+    <Cell><Data ss:Type="String">DeJuan Blair</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">270</Data></Cell>
+    <Cell><Data ss:Type="String">Kent Bazemore</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">271</Data></Cell>
+    <Cell><Data ss:Type="String">Giannis Antetokounmpo</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">1.9539599999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">272</Data></Cell>
+    <Cell><Data ss:Type="String">Adreian Payne</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">1.9388399999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">273</Data></Cell>
+    <Cell><Data ss:Type="String">Kelly Oubre Jr.</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">1.9202399999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">274</Data></Cell>
+    <Cell><Data ss:Type="String">Lucas Nogueira</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">1.8420000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">275</Data></Cell>
+    <Cell><Data ss:Type="String">Jusuf Nurkic</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.8420000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">276</Data></Cell>
+    <Cell><Data ss:Type="String">Terry Rozier</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">1.82436</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">277</Data></Cell>
+    <Cell><Data ss:Type="String">Dennis Schroder</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">1.7634000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">278</Data></Cell>
+    <Cell><Data ss:Type="String">James Young</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">1.7498400000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">279</Data></Cell>
+    <Cell><Data ss:Type="String">Rashad Vaughn</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">1.7330399999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">280</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan Kelly</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Lakers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.7242500000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">281</Data></Cell>
+    <Cell><Data ss:Type="String">Joffrey Lauvergne</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.709719</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">282</Data></Cell>
+    <Cell><Data ss:Type="String">Zoran Dragic</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">1.7062250000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">283</Data></Cell>
+    <Cell><Data ss:Type="String">Tyler Ennis</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">1.6623600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">284</Data></Cell>
+    <Cell><Data ss:Type="String">Sam Dekker</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.6464000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">285</Data></Cell>
+    <Cell><Data ss:Type="String">Lance Thomas</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">1.6368419999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">286</Data></Cell>
+    <Cell><Data ss:Type="String">Lou Amundson</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">1.6354759999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">287</Data></Cell>
+    <Cell><Data ss:Type="String">Sergey Karasev</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5998399999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">288</Data></Cell>
+    <Cell><Data ss:Type="String">Gary Harris</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5844800000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">289</Data></Cell>
+    <Cell><Data ss:Type="String">Jerian Grant</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">1.57236</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">290</Data></Cell>
+    <Cell><Data ss:Type="String">Tony Snell</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5358799999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">291</Data></Cell>
+    <Cell><Data ss:Type="String">Bruno Caboclo</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">1.524</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">292</Data></Cell>
+    <Cell><Data ss:Type="String">Delon Wright</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">1.50936</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">293</Data></Cell>
+    <Cell><Data ss:Type="String">Wayne Ellington</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">294</Data></Cell>
+    <Cell><Data ss:Type="String">Shane Larkin</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">295</Data></Cell>
+    <Cell><Data ss:Type="String">David West</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">1.499187</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">296</Data></Cell>
+    <Cell><Data ss:Type="String">Gorgui Dieng</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">1.47444</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">297</Data></Cell>
+    <Cell><Data ss:Type="String">Mitch McGary</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">1.4630399999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">298</Data></Cell>
+    <Cell><Data ss:Type="String">Caron Butler</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento Kings</Data></Cell>
+    <Cell><Data ss:Type="Number">1.449187</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">299</Data></Cell>
+    <Cell><Data ss:Type="String">Justin Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Dallas Mavericks</Data></Cell>
+    <Cell><Data ss:Type="Number">1.4490000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">300</Data></Cell>
+    <Cell><Data ss:Type="String">Mason Plumlee</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.4155199999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">301</Data></Cell>
+    <Cell><Data ss:Type="String">Jordan Adams</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">1.4046000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">302</Data></Cell>
+    <Cell><Data ss:Type="String">Bobby Portis</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">1.39116</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">303</Data></Cell>
+    <Cell><Data ss:Type="String">Andrea Bargnani</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.362897</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">304</Data></Cell>
+    <Cell><Data ss:Type="String">Solomon Hill</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.3588800000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">305</Data></Cell>
+    <Cell><Data ss:Type="String">Rodney Hood</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">1.3484400000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">306</Data></Cell>
+    <Cell><Data ss:Type="String">Rondae Hollis-Jefferson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.33548</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">307</Data></Cell>
+    <Cell><Data ss:Type="String">Alonzo Gee</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">1.32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">308</Data></Cell>
+    <Cell><Data ss:Type="String">Tim Hardaway Jr.</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">1.3045199999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">309</Data></Cell>
+    <Cell><Data ss:Type="String">Nikola Jokic</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">310</Data></Cell>
+    <Cell><Data ss:Type="String">Shabazz Napier</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">1.29444</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">311</Data></Cell>
+    <Cell><Data ss:Type="String">Tyus Jones</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2820800000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">312</Data></Cell>
+    <Cell><Data ss:Type="String">Sasha Kaun</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Cleveland Cavaliers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.276</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">313</Data></Cell>
+    <Cell><Data ss:Type="String">Brandon Rush</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">1.270964</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">314</Data></Cell>
+    <Cell><Data ss:Type="String">JaVale McGee</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Dallas Mavericks</Data></Cell>
+    <Cell><Data ss:Type="Number">1.270964</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">315</Data></Cell>
+    <Cell><Data ss:Type="String">Reggie Bullock</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Detroit Pistons</Data></Cell>
+    <Cell><Data ss:Type="Number">1.25244</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">316</Data></Cell>
+    <Cell><Data ss:Type="String">Clint Capela</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.24272</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">317</Data></Cell>
+    <Cell><Data ss:Type="String">Jarell Martin</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2308399999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">318</Data></Cell>
+    <Cell><Data ss:Type="String">Andre Roberson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2108000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">319</Data></Cell>
+    <Cell><Data ss:Type="String">P.J. Hairston</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2014400000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">320</Data></Cell>
+    <Cell><Data ss:Type="String">Boban Marjanovic</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">321</Data></Cell>
+    <Cell><Data ss:Type="String">Reggie Williams</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1857839999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">322</Data></Cell>
+    <Cell><Data ss:Type="String">Earl Clark</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1857839999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">323</Data></Cell>
+    <Cell><Data ss:Type="String">Rudy Gobert</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">1.17588</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">324</Data></Cell>
+    <Cell><Data ss:Type="String">Jordan Mickey</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">1.17096</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">325</Data></Cell>
+    <Cell><Data ss:Type="String">Toney Douglas</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1648579999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">326</Data></Cell>
+    <Cell><Data ss:Type="String">Archie Goodwin</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1601600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">327</Data></Cell>
+    <Cell><Data ss:Type="String">C.J. Wilcox</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.15968</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">328</Data></Cell>
+    <Cell><Data ss:Type="String">Larry Nance Jr.</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Lakers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1556</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">329</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Copeland</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1499999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">330</Data></Cell>
+    <Cell><Data ss:Type="String">Damjan Rudez</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota Timberwolves</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1495</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">331</Data></Cell>
+    <Cell><Data ss:Type="String">R.J. Hunter</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Boston Celtics</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1486400000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">332</Data></Cell>
+    <Cell><Data ss:Type="String">Matthew Dellavedova</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Cleveland Cavaliers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.147276</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">333</Data></Cell>
+    <Cell><Data ss:Type="String">Kyle Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1428799999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">334</Data></Cell>
+    <Cell><Data ss:Type="String">Josh Huestis</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1402399999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">335</Data></Cell>
+    <Cell><Data ss:Type="String">Chris McCullough</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1402399999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">336</Data></Cell>
+    <Cell><Data ss:Type="String">Kevon Looney</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1319600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">337</Data></Cell>
+    <Cell><Data ss:Type="String">Garrett Temple</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1006020000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">338</Data></Cell>
+    <Cell><Data ss:Type="String">Henry Walker</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1006020000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">339</Data></Cell>
+    <Cell><Data ss:Type="String">Cole Aldrich</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1006020000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">340</Data></Cell>
+    <Cell><Data ss:Type="String">Wesley Johnson</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1006020000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">341</Data></Cell>
+    <Cell><Data ss:Type="String">Luke Babbitt</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1006020000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">342</Data></Cell>
+    <Cell><Data ss:Type="String">Glenn Robinson III</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1000000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">343</Data></Cell>
+    <Cell><Data ss:Type="String">Richaun Holmes</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0741689999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">344</Data></Cell>
+    <Cell><Data ss:Type="String">Jon Leuer</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0349999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">345</Data></Cell>
+    <Cell><Data ss:Type="String">Jordan Hamilton</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0154209999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">346</Data></Cell>
+    <Cell><Data ss:Type="String">Lester Hudson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0154209999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">347</Data></Cell>
+    <Cell><Data ss:Type="String">James Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento Kings</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0154209999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">348</Data></Cell>
+    <Cell><Data ss:Type="String">E'Twaun Moore</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago Bulls</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0154209999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">349</Data></Cell>
+    <Cell><Data ss:Type="String">Rakeem Christmas</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.007026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">350</Data></Cell>
+    <Cell><Data ss:Type="String">Joe Young</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana Pacers</Data></Cell>
+    <Cell><Data ss:Type="Number">1.007026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">351</Data></Cell>
+    <Cell><Data ss:Type="String">Robert Covington</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">352</Data></Cell>
+    <Cell><Data ss:Type="String">Montrezl Harrell</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Houston Rockets</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">353</Data></Cell>
+    <Cell><Data ss:Type="String">Walter Tavares</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">354</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas Robinson</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">0.981348</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">355</Data></Cell>
+    <Cell><Data ss:Type="String">Jerel McNeal</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">0.981348</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">356</Data></Cell>
+    <Cell><Data ss:Type="String">Robert Sacre</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Lakers</Data></Cell>
+    <Cell><Data ss:Type="Number">0.981348</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">357</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Johnson</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">0.981348</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">358</Data></Cell>
+    <Cell><Data ss:Type="String">John Jenkins</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Dallas Mavericks</Data></Cell>
+    <Cell><Data ss:Type="Number">0.981348</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">359</Data></Cell>
+    <Cell><Data ss:Type="String">Pablo Prigioni</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94772599999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">360</Data></Cell>
+    <Cell><Data ss:Type="String">Damien Wilkins</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94727600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">361</Data></Cell>
+    <Cell><Data ss:Type="String">Jorge Gutierrez</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94727600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">362</Data></Cell>
+    <Cell><Data ss:Type="String">Tyler Hansbrough</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94727600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">363</Data></Cell>
+    <Cell><Data ss:Type="String">Troy Daniels</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94727600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">364</Data></Cell>
+    <Cell><Data ss:Type="String">Ray McCallum</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio Spurs</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94727600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">365</Data></Cell>
+    <Cell><Data ss:Type="String">Grant Jerrett</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94727600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">366</Data></Cell>
+    <Cell><Data ss:Type="String">Jeff Withey</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94727600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">367</Data></Cell>
+    <Cell><Data ss:Type="String">Allen Crabbe</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94727600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">368</Data></Cell>
+    <Cell><Data ss:Type="String">Kendrick Perkins</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94727600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">369</Data></Cell>
+    <Cell><Data ss:Type="String">Jason Richardson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94727600000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">370</Data></Cell>
+    <Cell><Data ss:Type="String">Raul Neto</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">371</Data></Cell>
+    <Cell><Data ss:Type="String">Jimmer Fredette</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">0.87483699999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">372</Data></Cell>
+    <Cell><Data ss:Type="String">Damien Inglis</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Milwaukee Bucks</Data></Cell>
+    <Cell><Data ss:Type="Number">0.85499999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">373</Data></Cell>
+    <Cell><Data ss:Type="String">Tyler Johnson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">0.845059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">374</Data></Cell>
+    <Cell><Data ss:Type="String">Markel Brown</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Brooklyn Nets</Data></Cell>
+    <Cell><Data ss:Type="Number">0.845059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">375</Data></Cell>
+    <Cell><Data ss:Type="String">Terrico White</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">0.845059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">376</Data></Cell>
+    <Cell><Data ss:Type="String">Langston Galloway</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">0.845059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">377</Data></Cell>
+    <Cell><Data ss:Type="String">Jerami Grant</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">0.845059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">378</Data></Cell>
+    <Cell><Data ss:Type="String">JaMychal Green</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">0.845059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">379</Data></Cell>
+    <Cell><Data ss:Type="String">Russ Smith</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">0.845059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">380</Data></Cell>
+    <Cell><Data ss:Type="String">James Ennis</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">0.845059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">381</Data></Cell>
+    <Cell><Data ss:Type="String">Jarnell Stokes</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">0.845059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">382</Data></Cell>
+    <Cell><Data ss:Type="String">Kostas Papanikolaou</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">0.80032099999999995</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">383</Data></Cell>
+    <Cell><Data ss:Type="String">Bryce Cotton</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">0.70090200000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">384</Data></Cell>
+    <Cell><Data ss:Type="String">Anthony Brown</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Lakers</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">385</Data></Cell>
+    <Cell><Data ss:Type="String">Norman Powell</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">0.65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">386</Data></Cell>
+    <Cell><Data ss:Type="String">Pat Connaughton</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">0.62509300000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">387</Data></Cell>
+    <Cell><Data ss:Type="String">Darrun Hilliard</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Detroit Pistons</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">388</Data></Cell>
+    <Cell><Data ss:Type="String">Jarell Eddie</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Wizards</Data></Cell>
+    <Cell><Data ss:Type="Number">0.56171599999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">389</Data></Cell>
+    <Cell><Data ss:Type="String">Greg Whittington</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">Josh Richardson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">391</Data></Cell>
+    <Cell><Data ss:Type="String">Corey Hawkins</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Miami Heat</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">392</Data></Cell>
+    <Cell><Data ss:Type="String">Aaron Harrison</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte Hornets</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">393</Data></Cell>
+    <Cell><Data ss:Type="String">Shannon Scott</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">394</Data></Cell>
+    <Cell><Data ss:Type="String">Ronald Roberts Jr.</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Toronto Raptors</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">395</Data></Cell>
+    <Cell><Data ss:Type="String">Treveon Graham</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">396</Data></Cell>
+    <Cell><Data ss:Type="String">Jarrid Famous</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">397</Data></Cell>
+    <Cell><Data ss:Type="String">Luis Montero</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">398</Data></Cell>
+    <Cell><Data ss:Type="String">Cliff Alexander</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Portland Trail Blazers</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">399</Data></Cell>
+    <Cell><Data ss:Type="String">Bo McCalebb</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell><Data ss:Type="String">Lamar Patterson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">401</Data></Cell>
+    <Cell><Data ss:Type="String">Terran Petteway</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta Hawks</Data></Cell>
+    <Cell><Data ss:Type="Number">0.52509300000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">402</Data></Cell>
+    <Cell><Data ss:Type="String">Steve Novak</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma City Thunder</Data></Cell>
+    <Cell><Data ss:Type="Number">0.28975499999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">403</Data></Cell>
+    <Cell><Data ss:Type="String">Anderson Varejao</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Golden State Warriors</Data></Cell>
+    <Cell><Data ss:Type="Number">0.28975499999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">404</Data></Cell>
+    <Cell><Data ss:Type="String">JaKarr Sampson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia 76ers</Data></Cell>
+    <Cell><Data ss:Type="Number">0.25848900000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">405</Data></Cell>
+    <Cell><Data ss:Type="String">Bryce Dejean-Jones</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans Pelicans</Data></Cell>
+    <Cell><Data ss:Type="Number">0.16988300000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">406</Data></Cell>
+    <Cell><Data ss:Type="String">Lorenzo Brown</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">0.111444</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">407</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan Hollins</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">0.111444</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">408</Data></Cell>
+    <Cell><Data ss:Type="String">Jeff Ayres</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles Clippers</Data></Cell>
+    <Cell><Data ss:Type="Number">0.111444</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">409</Data></Cell>
+    <Cell><Data ss:Type="String">Erick Green</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Utah Jazz</Data></Cell>
+    <Cell><Data ss:Type="Number">9.9418000000000006E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">410</Data></Cell>
+    <Cell><Data ss:Type="String">Sean Kilpatrick</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Denver Nuggets</Data></Cell>
+    <Cell><Data ss:Type="Number">9.9418000000000006E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">411</Data></Cell>
+    <Cell><Data ss:Type="String">Keith Appling</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Magic</Data></Cell>
+    <Cell><Data ss:Type="Number">6.1775999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">412</Data></Cell>
+    <Cell><Data ss:Type="String">Orlando Johnson</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5722000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">413</Data></Cell>
+    <Cell><Data ss:Type="String">Elliot Williams</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Memphis Grizzlies</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5722000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">414</Data></Cell>
+    <Cell><Data ss:Type="String">Phil Pressey</Data></Cell>
+    <Cell><Data ss:Type="String">PG</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5722000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">415</Data></Cell>
+    <Cell><Data ss:Type="String">Jordan McRae</Data></Cell>
+    <Cell><Data ss:Type="String">SG</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">4.9709000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">416</Data></Cell>
+    <Cell><Data ss:Type="String">Cory Jefferson</Data></Cell>
+    <Cell><Data ss:Type="String">PF</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix Suns</Data></Cell>
+    <Cell><Data ss:Type="Number">4.9709000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">417</Data></Cell>
+    <Cell><Data ss:Type="String">Thanasis Antetokounmpo</Data></Cell>
+    <Cell><Data ss:Type="String">SF</Data></Cell>
+    <Cell><Data ss:Type="String">New York Knicks</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0887999999999999E-2</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.31496062000000002"/>
+    <Footer x:Margin="0.31496062000000002"/>
+    <PageMargins x:Bottom="0.78740157499999996" x:Left="0.511811024"
+     x:Right="0.511811024" x:Top="0.78740157499999996"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R417C5</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

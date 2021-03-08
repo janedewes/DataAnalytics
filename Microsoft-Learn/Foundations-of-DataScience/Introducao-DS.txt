@@ -1,0 +1,163 @@
+1. O que é ciência de dados?
+
+
+A ciência de dados tira conclusões úteis de conjuntos de dados grandes e diversificados por meio da exploração, da previsão e da inferência. 
+
+- A EXPLORAÇÃO envolve a identificação de padrões nas informações.
+- A PREVISÃO envolve o uso das informações que sabemos para criar hipóteses informadas sobre os valores que queríamos saber.
+-  A INFERÊNCIA envolve a quantificação do nosso grau de certeza: os padrões que encontramos em nossos dados também aparecerão em novas 
+observações? Qual o nível de precisão das nossas previsões? 
+
+- Nossas principais ferramentas para EXPLORAÇÃO são visualizações e estatísticas descritivas;
+- Para PREVISÃO são aprendizado de máquina e otimização;
+- E para INFERÊNCIA são testes e modelos estatísticos;
+
+
+- A estatística é um componente central da ciência de dados, pois estuda como chegar a conclusões robustas com base em informações incompletas.
+- A computação é um componente central, porque a programação permite-nos aplicar técnicas de análise a conjuntos de dados grandes e
+diversificados que aparecem em aplicativos do mundo real: não apenas números, mas texto, imagens, vídeos e leituras de sensor.
+
+
+
+Para qualquer aspecto do mundo que desejamos estudar – seja o clima da Terra, os mercados do mundo, as pesquisas políticas ou a mente humana –, 
+os dados que coletamos normalmente oferecem uma descrição incompleta do assunto em questão. Um desafio central da ciência de dados é tirar 
+conclusões confiáveis usando essas informações parciais.
+Nesse esforço, combinaremos duas ferramentas essenciais: computação e randomização. Aprenderemos a usar a aleatoriedade como um modo de 
+imaginar muitos cenários possíveis, todos eles consistentes com os dados que observamos.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Técnicas estatísticas
+
+Uma das contribuições mais importantes da estatística é um vocabulário consistente e preciso para descrever a relação entre observações e
+conclusões.
+Conjunto dos principais problemas inferenciais da estatística: 
+- o teste de hipóteses, 
+- a estimativa da confiança,
+- e a previsão de quantidades desconhecidas.
+
+A ciência de dados estende o campo da estatística valendo-se completamente da computação, da visualização de dados, do aprendizado de máquina, 
+da otimização e do acesso à informação.
+
+ Os dados reais geralmente não seguem padrões regulares nem correspondem a equações padrão. A variação interessante em dados reais pode ser 
+ perdida ao se dar muita atenção a resumos simplistas, como valores médios.
+
+ Os computadores habilitam diversos métodos com base na reamostragem que se aplicam a uma ampla variedade de diferentes problemas de inferência, 
+ levam em consideração todas as informações disponíveis e exigem poucas pressuposições ou condições.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Por que a ciência de dados?
+
+As decisões mais importantes são tomadas apenas com informações parciais e resultados incertos. No entanto, o grau de incerteza de muitas 
+decisões pode ser reduzido de maneira nítida pelo acesso a grandes conjuntos de dados e às ferramentas computacionais necessárias para 
+analisá-los com eficiência. A tomada de decisão controlada por dados já transformou uma grande variedade de setores, incluindo finanças, 
+propaganda, fabricação e imóveis. 
+
+Uma análise crítica de qualquer aspecto do mundo, seja de negócios ou de ciência social, envolve o raciocínio indutivo; conclusões raramente 
+podem ser comprovadas definitivamente, mas só respaldadas pelas evidências disponíveis. 
+
+A ciência de dados fornece os meios para criar argumentos precisos, confiáveis e quantitativos sobre qualquer conjunto de observações.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. Causalidade e experimentos
+
+A observação é o segredo para uma boa ciência. Um estudo de observação é aquele em que os cientistas tiram conclusões com base nos dados que 
+eles observaram, mas que não tiveram ajuda na geração. Em ciência de dados, muitos desses estudos envolvem observações em um grupo de indivíduos, 
+um fator de interesse denominado tratamento e um resultado medido em cada indivíduo(indivíduo não necessariamente pessoa).
+
+Ex: Uma lei estadual que permite a penalidade de morte seria o TRATAMENTO e um RESULADO poderia ser a taxa de homicídio do estado.
+- A questão fundamental é se o TRATAMENTO tem um efeito sobre o RESULADO.
+- Qualquer relação entre o TRATAMENTO e o RESULADO é chamada de associação.
+- Se o tratamento fizer o resultado ocorrer, a associação será CASUAL.
+
+O estabelecimento da causalidade muitas vezes ocorre em duas fases. Primeiro, é observada uma associação. Depois, uma análise mais cuidadosa 
+leva a uma decisão sobre a causalidade.
+
+----------------------------------------------------------
+
+Estabelecer a causalidade
+
+Ex: Observação e visualização – John Snow e a bomba da Broad Street
+- Pensar em pessoas nas casas abastecidas pela companhia de água S&V como o grupo de tratamento;
+- Pensar em pessoas nas casas abastecidas pela Lambeth como o grupo de controle;
+
+Para estabelecer se foi o abastecimento de água que estava causando a cólera, Snow precisava comparar dois grupos semelhantes entre si 
+em todos os aspectos, exceto um: o abastecimento de água.
+
+Ele decidiu estabelecer uma relação causal entre a água contaminada e a infecção por cólera e, em grande medida, ele teve êxito.
+Os métodos de Snow levaram ao desenvolvimento do campo da epidemiologia, que é o estudo da transmissão do doenças.
+
+Em um estudo de observação, se os grupos de tratamento e controle diferirem de outras maneiras que não sejam o tratamento, será difícil
+tirar conclusões sobre a causalidade.
+
+Uma diferença subjacente entre os dois grupos (além do tratamento) é chamada de fator de confusão, porque poderá confundir você quando
+tentar chegar a uma conclusão.
+Fatores de confusão são comuns em estudos de observação. Bons estudos tomam muito cuidado para reduzir a confusão e considerar os efeitos dela.
+
+**************
+Exemplo: café e câncer de pulmão. Estudos nos anos 1960 mostraram que quem tomava café tinha taxas mais altas de ter câncer de pulmão 
+do que aqueles que não tomavam. Por isso, algumas pessoas identificaram o café como uma causa de câncer de pulmão. Mas o café não causa 
+câncer de pulmão. A análise continha um fator de confusão: o hábito de fumar. Naqueles dias, quem tomava café também tinha probabilidade 
+de ser fumante, e o hábito de fumar causa câncer de pulmão. Beber café estava associado a câncer de pulmão, mas ele não causa a doença.
+**************
+
+
+Snow percebeu que, enquanto residências inteiras eram dizimadas pela cólera, as pessoas nas casas vizinhas às vezes não eram contaminadas. 
+Como elas respiravam o mesmo ar – e os miasmas – que os vizinhos, não havia nenhuma associação convincente entre cheiros ruins e a incidência 
+de cólera.
+Ele também percebeu que o início da doença quase sempre envolvia vômito e diarreia. Assim, ele acreditava que a infecção era contraída pelo 
+que as pessoas comiam ou bebiam, não pelo ar que elas respiravam. O principal suspeito dele era a água contaminada pelo esgoto.
+No final de agosto de 1854, a cólera assolou o superlotado Soho, distrito de Londres. À medida que as mortes aumentavam, Snow as registrava 
+diligentemente, usando um método que acabou virando padrão no estudo de como as doenças se espalham: ele desenhou um mapa. Em um mapa de rua 
+do distrito, ele registrava o local de cada morte.
+No mapa cada barra preta representa uma morte. Quando há várias mortes no mesmo endereço, as barras correspondentes a essas mortes são 
+empilhadas umas em cima das outras. Os discos pretos marcam os locais das bombas de água. O mapa mostra uma revelação surpreendente: as mortes 
+se agrupam em torno da bomba da Broad Street.
+Snow estudou o mapa com cuidado e investigou as aparentes anomalias. Todas implicavam a bomba da Broad Street.
+Mais tarde, descobriu-se que um a fossa a alguns metros do poço da bomba da Broad Street havia vazado para dentro do poço. Portanto, a água da 
+bomba estava contaminada pelo esgoto das casas das vítimas de cólera.
+O mapa de Snow é um dos primeiros e mais avançados usos da visualização de dados. Mapas de doenças de vários tipos agora são uma ferramenta 
+padrão para rastrear epidemias.
+
+
+Diante da causalidade
+
+Embora o mapa tenha dado a Snow uma indicação sólida de que a limpeza do abastecimento de água era fundamental para controlar a cólera, 
+isso ainda estava longe de um argumento científico convincente de que a água contaminada estava causando a disseminação da doença. Para 
+tornar o caso mais convincente, ele teve que usar o método de comparação.
+
+Os cientistas usam a comparação para identificar uma associação entre um tratamento e um resultado.
+
+Eles comparam os resultados de um grupo de indivíduos que receberam o tratamento (o grupo de tratamento) com os resultados de um grupo 
+que não recebeu (o grupo de controle). Por exemplo, os pesquisadores de hoje podem comparar a taxa média de homicídio em estados que têm 
+pena de morte com a taxa média de homicídio em estados que não preveem essa punição.
+
+Se os resultados forem diferentes, será uma evidência de ASSOCIAÇÃO. Para determinar a CAUSALIDADE, no entanto, é necessário ter ainda mais 
+cuidado.
+
+
+"O Grande Experimento" de Snow
+
+Incentivado pelo que tinha descoberto em Soho, Snow realizou uma análise mais completa. Durante algum tempo, ele tinha coletado dados sobre 
+mortes por cólera em uma região de Londres que era atendida por duas companhias hídricas. A companhia hídrica Lambeth drenava a água rio acima 
+de onde o esgoto era despejado no Rio Tâmisa. A água dela era relativamente limpa. Mas a companhia S&V (Southwark and Vauxhall) drenava a água
+que estava embaixo do despejo de esgoto e, portanto, o abastecimento ficou contaminado.
+
+Snow percebeu que não havia nenhuma diferença sistemática entre as pessoas que eram abastecidas pela S & V e aquelas abastecidas pela Lambeth.
+
+A única diferença estava no abastecimento de água: “um grupo era abastecido por água que continha o esgoto de Londres e, no meio dele, o que 
+fosse proveniente dos pacientes com cólera; o outro grupo recebia água livre de impurezas”.
+
+Os números apontam de maneira acusatória para a empresa S&V. A taxa de mortalidade por cólera nas casas abastecidas pela S&V era quase 10 vezes 
+a taxa nas casas abastecidas pela Lambeth.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Conclusão
+A Ciência de Dados é uma ferramenta poderosa que pode tirar conclusões poderosas por meio da EXPLORAÇÃO, PREVISÃO e INFERÊNCIA de diversos 
+conjuntos de dados. 
